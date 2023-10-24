@@ -1,5 +1,7 @@
 GAAP - Group of Advanced Applications in Processes
+
 Coordinator: Amanda Lemette Teixeira Brandão
+
 Pontifical Catholic University of Rio de Janeiro
 
 <!---
